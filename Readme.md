@@ -20,3 +20,7 @@
 - `📂 data`
   - `📄 miniImagenet_proc_images.py`
   - `📄 data_generator.py`
+
+### Original Source
+
+- https://github.com/cbfinn/maml
